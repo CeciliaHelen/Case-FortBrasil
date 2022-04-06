@@ -1,9 +1,7 @@
-Resolução do case para a vaga de Cientista de Dados da FortBrasil
+ResoluÃ§Ã£o do case para a vaga de Cientista de Dados da FortBrasil
 
-Problemas:
+Ferramentas usadas: Jupyter Notebook
 
-Soluções:
+Linguagem(ns) usada(s): Python
 
-Ferramentas usadas:
-
-Linguagem(ns) usada(s):
+Bibliotecas utilizadas: Pandas, Matplotlib e locale
